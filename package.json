@@ -1,0 +1,13 @@
+{
+  "name": "updated_portfolio",
+  "version": "1.0.0",
+  "description": "I redesigned my portfolio after practicing with more CSS styles and employing bootstrap.",
+  "main": "index.js",
+  "repository": "https://github.com/annetteia/updated-portfolio.git",
+  "author": "annetteia",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
